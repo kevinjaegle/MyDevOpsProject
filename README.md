@@ -1,6 +1,3 @@
-Hier ist eine ausführliche README-Vorlage für dein GitHub-Repository, die erklärt, was in deinem Projekt gemacht wurde und wie man es benutzt:
-
-```markdown
 # Einfaches DevOps-Projekt mit Java und Docker
 
 Dieses Repository enthält eine einfache Java-Anwendung, die in einem Docker-Container ausgeführt wird. Es dient als Einstieg in DevOps-Praktiken, einschließlich der Verwendung von Git, GitHub, Docker und grundlegender Java-Entwicklung.
